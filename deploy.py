@@ -2,3 +2,6 @@
 echo "Hello"
 pthon ('Hello World')
 # python script
+
+print('Hello World')
+
